@@ -1,78 +1,94 @@
-# 👁️‍🗨️ Tiago Sasaki — Building Systems Beyond Syntax
+```markdown
+# 🤖 Tiago Sasaki — AI Systems Architect & Automation Strategist
 
-> 🚧 Currently architecting the post-code era with AI-first workflows, agentic orchestration, and deeply contextual problem-solving across real-world domains.
-
----
-
-## 📍 About Me
-
-I'm not a software developer. I'm a **systems strategist who builds with AI** — a product of the tension between rigorous engineering and radical abstraction.
-
-Trained as a civil engineer and shaped by the operational chaos of public infrastructure and real-world deadlines, I bring a unique lens to automation: one that **ignores what's trending and builds only what's transformative**. I prototype complex systems from zero, directly in CLI environments, using natural language orchestration, domain-specific prompting, and deep research into user pain.
-
-I coined the term "**applied prompt engineering for systemic leverage**" before it was cool — because when your stack has no budget, no team, and no margin for error, **LLMs aren't toys, they're multipliers**.
+> **Civil Engineer turned AI Infrastructure Specialist**  
+> Building production-ready agentic workflows that replace entire business processes
 
 ---
 
-## 🧠 What I Do
+## 🎯 Who I Am
 
-- 🧱 **AI Infrastructure for Real-World Sectors**  
-  From automated real estate appraisals (Modela Pro / Valion) to compliance-driven technical reports (ETP Express), I use AI not to prototype ideas — but to **reconstruct industry standards**.
+**I'm not a software developer. I'm a systems architect who builds with AI.**
 
-- 🕸️ **Vibe Coding as Architecture**  
-  I operate as a "vibe coder" in the strictest definition by Karpathy:  
-  > *“Focusing on the *what*, not the *how*.”*  
-  All my projects are driven by pain-point immersion → prompt systematization → CLI-first orchestration using tools like Gemini CLI, Aider, Claude Code, and Make.com.
+Civil Engineering background shaped by operational reality of public infrastructure and unforgiving deadlines. I bring a unique perspective to automation: **I ignore trends and build only what's transformational**.
 
-- 🤖 **Agentic Workflows with ROI**  
-  My bots don't chat. They **replace entire workflows**.  
-  Think: one WhatsApp message → full legal report in PDF/Word → sent to client → billed automatically → tracked on dashboard.  
-  All orchestrated solo. No dev team. No overhead.
+I prototype complex systems from zero, directly in CLI environments, using natural language orchestration, domain-specific prompting, and deep research into real user pain points.
+
+**I focus on "applied prompt engineering for systemic leverage"** — because when your stack has constraints, **LLMs aren't toys, they're multipliers**.
 
 ---
 
-## 🚀 Notable Projects
+## 🔧 What I Build
 
-| Project         | Description                                                                         | Tech Stack                            |
-|----------------|-------------------------------------------------------------------------------------|----------------------------------------|
-| **Valion**      | AI-powered real estate valuation (ABNT NBR 14.653) with statistical modeling       | Python, Claude, Gemini CLI, Pandas     |
-| **ETP Express** | Public procurement reports as a service (Law 14.133/21 compliance)                 | Make.com, GPT-4, PagTrust              |
-| **Vision AI**   | WhatsApp-based expert consultant for construction professionals                    | WhatsApp API, GPT-4, Python            |
-| **Insight Miner**| Automated lead scoring from email inboxes with Kanban integration                | OpenAI, FastAPI, PostgreSQL, Docker    |
+### 🏗️ **AI Infrastructure for Real Industries**
+- Automated real estate appraisals (Valion) 
+- Compliance-driven technical reports (ETP Express)
+- I use AI not to prototype ideas, but to **reconstruct industry standards**
 
-→ All built solo. No co-founders. No investors. No excuses.
+### 🎭 **Vibe Coding as Architecture**
+I operate as a "vibe coder" in Karpathy's definition: **focusing on the *what*, not the *how***.
 
----
+All projects driven by: pain-point immersion → prompt systematization → CLI-first orchestration using Gemini CLI, Aider, Claude Code, Make.com.
 
-## 🛠️ Stack & Mindset
+### 🤖 **Agentic Workflows with Measurable ROI**
+My bots don't chat. **They replace entire workflows**.
 
-- **CLI First**: Gemini CLI, Aider, Claude Code, terminal workflows.
-- **Low/No-Code Superpowers**: Make, Bubble, Retool, Supabase, Appsmith.
-- **Promptcraft**: ReAct, Tree-of-Thought, Chain-of-Thought, Self-Consistency.
-- **Governance & Architecture**: CI/CD, modular design, API-first, scoped MVPs.
+**Example**: WhatsApp message → full technical report → delivered to client → tracked on dashboard.
 
-I don’t just prompt. I **prompt to deploy**.
+All orchestrated efficiently. **Pure systemic leverage**.
 
 ---
 
-## 🌍 The Meta-Vision
+## 🚀 Current Projects
+
+| **Project** | **Industry Focus** | **Tech Stack** | **Approach** |
+|-------------|-------------------|----------------|-------------|
+| **Valion** | Real estate valuation with statistical modeling | Python, Claude, Gemini CLI, Pandas | Technical compliance automation |
+| **ETP Express** | Public procurement reports as a service | Make.com, GPT-4, PagTrust | Legal compliance workflows |
+| **Vision AI** | WhatsApp expert consultant for construction | WhatsApp API, GPT-4, Python | Domain-specific problem solving |
+| **Insight Miner** | Automated lead scoring from email inboxes | OpenAI, FastAPI, PostgreSQL, Docker | CRM integration pipeline |
+
+---
+
+## 🛠️ Technical Arsenal
+
+### **CLI-First Approach**
+- Gemini CLI, Aider, Claude Code
+- Terminal workflows as primary interface
+- Command-line orchestration
+
+### **Low/No-Code Integration**
+- Make.com, Bubble, Retool, Supabase, Appsmith
+- API-first architecture
+- Rapid prototyping to production
+
+### **Prompt Engineering Methodologies**
+- ReAct, Tree-of-Thought, Chain-of-Thought
+- Self-Consistency patterns
+- Domain-specific prompt optimization
+
+---
+
+## 🌍 The Vision
 
 > *"The future isn't about writing code — it's about writing systems of intent."*
 
-My goal is to be **undeniably visible to the ecosystem that's building the next 100 years of automation**. Whether you're a VC, CTO, or recruiter, you'll find in my work a rare mix of:
+My goal is to be **visible to the ecosystem building the next wave of automation**. Whether you're a VC, CTO, or recruiter, you'll find in my work:
 
-- 🎯 Business-level clarity  
-- 🤖 Agentic technical fluency  
-- 🛠️ DIY execution  
-- 🧭 Strategic compass  
+- 🎯 **Business-level clarity**  
+- 🤖 **Agentic technical fluency**  
+- 🛠️ **Independent execution**  
+- 🧭 **Strategic perspective**  
 
 ---
 
-## ☎️ Let’s Talk (or Build)
+## ☎️ Let's Connect
 
-If you're building for the next wave of agentic AI infrastructure — and want someone who prototypes it solo, **then scales it with purpose**, let's talk.
+Building agentic AI infrastructure that **prototypes efficiently and scales with purpose**.
 
-> 💡 *You don’t need to hire me to see the future — just follow the repos.*
+> 💡 *Follow the repos to see the future in action.*
 
+**Keywords**: AI Systems Architecture, Prompt Engineering, Agentic Workflows, CLI Automation, Make.com Integration, Real Estate AI, Construction Tech, Business Process Automation, Python AI Development, No-Code Solutions
+```
 ---
 
