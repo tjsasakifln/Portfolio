@@ -23,7 +23,7 @@ I prototype complex systems from zero, directly in CLI environments, using natur
 ## 🔧 What I Build
 
 ### 🏗️ **AI Infrastructure for Real Industries**
-- Automated real estate appraisals (Modela Pro / Valion) 
+- Automated real estate appraisals (Valion) 
 - Compliance-driven technical reports (ETP Express)
 - I use AI not to prototype ideas, but to **reconstruct industry standards**
 
@@ -111,7 +111,7 @@ Building agentic AI infrastructure that **prototypes efficiently and scales with
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:tiago.sasaki@confenge.com.br)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:tiago@confenge.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tiagosasaki/)
 
 </div>
