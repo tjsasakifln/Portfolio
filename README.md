@@ -1,8 +1,10 @@
-```markdown
 # 🤖 Tiago Sasaki — AI Systems Architect & Automation Strategist
 
 > **Civil Engineer turned AI Infrastructure Specialist**  
 > Building production-ready agentic workflows that replace entire business processes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tiagosasaki/)
+[![GitHub followers](https://img.shields.io/github/followers/tjsasakifln?style=social)](https://github.com/tjsasakifln)
 
 ---
 
@@ -21,7 +23,7 @@ I prototype complex systems from zero, directly in CLI environments, using natur
 ## 🔧 What I Build
 
 ### 🏗️ **AI Infrastructure for Real Industries**
-- Automated real estate appraisals (Valion) 
+- Automated real estate appraisals (Modela Pro / Valion) 
 - Compliance-driven technical reports (ETP Express)
 - I use AI not to prototype ideas, but to **reconstruct industry standards**
 
@@ -39,14 +41,19 @@ All orchestrated efficiently. **Pure systemic leverage**.
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Systems I Develop
 
-| **Project** | **Industry Focus** | **Tech Stack** | **Approach** |
-|-------------|-------------------|----------------|-------------|
-| **Valion** | Real estate valuation with statistical modeling | Python, Claude, Gemini CLI, Pandas | Technical compliance automation |
-| **ETP Express** | Public procurement reports as a service | Make.com, GPT-4, PagTrust | Legal compliance workflows |
-| **Vision AI** | WhatsApp expert consultant for construction | WhatsApp API, GPT-4, Python | Domain-specific problem solving |
-| **Insight Miner** | Automated lead scoring from email inboxes | OpenAI, FastAPI, PostgreSQL, Docker | CRM integration pipeline |
+### 🏗️ **Industry-Specific AI Infrastructure**
+**Real Estate & Construction**: Automated valuation systems, technical compliance reports, and regulatory documentation that meet industry standards. Each system replaces manual processes with intelligent workflows.
+
+### 📊 **Business Process Automation**
+**End-to-End Workflows**: From lead capture to client delivery, I build systems that handle entire business processes. WhatsApp integration, automated reporting, CRM synchronization, and client communication — all orchestrated seamlessly.
+
+### 🤖 **Agentic Decision Systems**
+**Intelligent Agents**: Not chatbots, but specialized agents that make decisions, process complex information, and execute multi-step business logic. These systems operate independently while maintaining full auditability.
+
+### 🔧 **CLI-First Architecture**
+**Developer-Centric Tools**: Systems built for technical teams who prefer command-line interfaces. Direct integration with existing development workflows, version control, and deployment pipelines.
 
 ---
 
@@ -69,6 +76,18 @@ All orchestrated efficiently. **Pure systemic leverage**.
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjsasakifln&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tjsasakifln&layout=compact&theme=dark)
+
+</div>
+
+---
+
 ## 🌍 The Vision
 
 > *"The future isn't about writing code — it's about writing systems of intent."*
@@ -86,9 +105,21 @@ My goal is to be **visible to the ecosystem building the next wave of automation
 
 Building agentic AI infrastructure that **prototypes efficiently and scales with purpose**.
 
+**Open to international opportunities and remote collaboration.**
+
 > 💡 *Follow the repos to see the future in action.*
 
-**Keywords**: AI Systems Architecture, Prompt Engineering, Agentic Workflows, CLI Automation, Make.com Integration, Real Estate AI, Construction Tech, Business Process Automation, Python AI Development, No-Code Solutions
-```
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:tiago.sasaki@confenge.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tiagosasaki/)
+
+</div>
+
 ---
 
+<div align="center">
+  
+**Keywords**: `AI Systems Architecture` • `Prompt Engineering` • `Agentic Workflows` • `CLI Automation` • `Make.com Integration` • `Real Estate AI` • `Construction Tech` • `Business Process Automation` • `Python AI Development` • `No-Code Solutions`
+
+</div>
