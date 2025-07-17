@@ -120,6 +120,7 @@ Building agentic AI infrastructure that **prototypes efficiently and scales with
 
 <div align="center">
   
-**Keywords**: `AI Systems Architecture` • `Prompt Engineering` • `Agentic Workflows` • `CLI Automation` • `Make.com Integration` • `Real Estate AI` • `Construction Tech` • `Business Process Automation` • `Python AI Development` • `No-Code Solutions`
+**Keywords**: `AI Systems Architecture` • `Prompt Engineering` • `Agentic Workflows` • `CLI Automation` • `Make.com Integration` • `Real Estate AI` • `Construction Tech` • `Business Process Automation` • `Python AI Development` • `No‑Code Solutions` • `BIM Automation` • `openBIM` • `IFC Parsing` • `IFC‑JS` • `Autodesk Forge Integration` • `Autodesk Platform Services` • `Digital Twin Workflows` • `BIM Clash Detection` • `BIM Coordination` • `AEC Data Pipelines`
+
 
 </div>
